@@ -29,8 +29,8 @@
             line-height: 200px;
             font-size: 50px;
             text-align: center;
-            box-shadow:0 0 10px #fff;
-            -webkit-box-reflect:below 10px -webkit-linear-gradient(top,rgba(0,0,0,0) 40%,rgba(0,0,0,.8) 100%);
+            box-shadow:0 0 20px #fff;
+            -webkit-box-reflect:below 10px -webkit-linear-gradient(top,rgba(180, 65, 65, 0) 40%,rgba(0,0,0,.8) 100%);
         }
 
         #box p{
